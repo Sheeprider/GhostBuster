@@ -2,11 +2,11 @@
 
 ##Requierments
 
-- Ghost
 - Buster
+- Ghost
 - Git
 - Grunt, node
-- Host (Github, ...)
+- Host (Github pages)
 
 ##Usage
 
